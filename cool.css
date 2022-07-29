@@ -1,0 +1,26 @@
+
+body{
+    background-color: beige;
+}.dood{
+    height: 50vh;
+   
+}
+h2{
+    font-size: 5rem;
+    font-weight: bold;
+}
+.sup {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.countdown{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.day,.minute,.second,.hour{
+    font-size: 3rem;
+}
